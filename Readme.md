@@ -1,4 +1,5 @@
-打开页面 访问http://localhost:8001/#/pro
+npm i  
+npm start启动项目  访问http://localhost:8001/#/pro
 用到的页面：src/routes/IndexPage
 关联页面：
  src/routes/Products.js
